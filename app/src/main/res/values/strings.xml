@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MyChat</string>
+    <string name="api_key">bnvth9njgu8w</string>
+    <string name="jwt_token">eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoicmVtemlraWQifQ.qrr9FIeKwzWlz8QX610iKEcZaWGPLveq94wtwIdxMY8</string>
+    <!--remzikid-->
+</resources>
